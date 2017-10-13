@@ -1,6 +1,7 @@
 applications:
-- name:      valerio-todo
-  host:      valerio-todo
+- name:      PDP-todo
+  host:      PDP-todo
   memory:    128M
   services:
-  - todo-db 
+  - PdPNRed-cloudantNoSQLDB
+
